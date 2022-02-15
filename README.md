@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a JavaScript developer from New Jersey. I currently work as a backend developer for Stetson where I get to build services, automation modules, APIs, and user interfaces that empower the team to do their work more efficiently.
+I'm a JavaScript developer from New Jersey. I'm currently working as a Software Engineer at (Serrala)[https://www.serrala.com/] where I get to collaborate with a global engineering team building secure entreprise payment solutions.
+
+<!-- 
+Previous Job Description
+worked as a backend developer for Stetson where I got to build microservices, automation modules, APIs, and user interfaces that empowered the team to do their work more efficiently.
+-->
