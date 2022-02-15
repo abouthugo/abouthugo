@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a JavaScript developer from New Jersey. I'm currently working as a Software Engineer at [Serrala](https://www.serrala.com/) where I get to collaborate with a global engineering team building secure entreprise payment solutions.
+I'm a JavaScript developer from New Jersey. I'm currently working as a Software Engineer at [Serrala](https://www.serrala.com/) where I get to collaborate with a global engineering team building secure enterprise payment solutions.
 
 <!-- 
 Previous Job Description
