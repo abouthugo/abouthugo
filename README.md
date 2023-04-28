@@ -4,7 +4,7 @@ I'm a passionate problem-solver with a knack for creating cutting-edge solutions
 
  I'm a seasoned React dev, but I also have a solid foundation in Angular, thanks to my diverse work experience. So, bring on the frameworks, and let's build something cool together!
 
- When it comes to hosting my side projects, I have a soft spot for GCP. But don't worry, I've also got mad skills in Azure, courtesy of my most recent role. If your company used AWS I'm confident in my ability to translate the core skills from other cloud providers and learn it in a matter of days.
+ When it comes to hosting my side projects, I have a soft spot for GCP. But don't worry, I've also got mad skills in Azure, courtesy of my most recent role. If your company uses AWS I'm confident in my ability to translate the core skills from other cloud providers and learn it in a matter of days.
 
 - 🪴 I’m currently learning how to program in Rust
 - 📫 How to reach me: [email me](mailto:hugo@perdomo.dev)
