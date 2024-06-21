@@ -9,11 +9,13 @@ I'm a seasoned React dev, but I also have a solid foundation in Angular. When it
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a secret cooking journal I hope to publish in my site some day
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abouthugo&theme=transparent&show_icons=true&hide_rank=true))](https://github.com/anuraghazra/github-readme-stats)
 [![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abouthugo&theme=transparent&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abouthugo&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools I use
 
+<img style="padding: 2px" alt="archlinux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="26px" align="left"/>
 <img style="padding: 2px" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="26px" align="left"/>
 <img style="padding: 2px" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px" align="left"/>
 <img style="padding: 2px" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26px" align="left"/>
