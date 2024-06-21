@@ -9,14 +9,17 @@ I'm a seasoned React dev, but I also have a solid foundation in Angular. When it
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a secret cooking journal I hope to publish in my site some day
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abouthugo&theme=transparent&show_icons=true&hide_rank=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abouthugo&theme=transparent&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tools I use
 
-<img style="padding: 2px" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26px" align="left"/>
-<img style="padding: 2px" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26px" align="left"/>
-<img style="padding: 2px" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" align="left"/>
+<img style="padding: 2px" alt="neovim" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="26px" align="left"/>
 <img style="padding: 2px" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px" align="left"/>
 <img style="padding: 2px" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26px" align="left"/>
 <img style="padding: 2px" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26px" align="left"/>
+<img style="padding: 2px" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26px" align="left"/>
+<img style="padding: 2px" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" align="left"/>
 <img style="padding: 2px" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26px" align="left"/>
 <img style="padding: 2px" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26px" align="left"/>
 <img style="padding: 2px" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="26px" align="left"/>
