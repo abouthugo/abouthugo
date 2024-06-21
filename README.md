@@ -1,13 +1,13 @@
-# Hi there, I'm Hugo. Is good to have you here 👋
+# Hi there, I'm Hugo
 
 I'm a passionate problem-solver with a knack for creating cutting-edge solutions using technology. With a robust track record in pure JS/TS projects, I'm your go-to person for anything backend or frontend related.
 
 I'm a seasoned React dev, but I also have a solid foundation in Angular. When it comes to hosting my side projects, I prefer to use GCP. But I also know my way around Azure, thanks to my most recent role. If your company uses AWS I'm confident in my ability to translate the core skills from other cloud providers and learn it in a matter of days.
 
-- 🪴 I’m currently learning how to program in Rust
+- 🪴 I’m currently learning how to program in Go
 - 📫 How to reach me: [email me](mailto:hugo@perdomo.dev)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a secret cooking journal I'm planning to release soon
+- ⚡ Fun fact: I have a secret cooking journal I hope to publish in my site some day
 
 ## Tools I use
 
