@@ -1,5 +1,8 @@
 # Hey 👋
 
+> [!NOTE]
+> I have moved all my code projects to a selfhosted Forgejo instance in my homelab. You won't see any activity unless I'm contributing to an OSS project on here.
+
 [![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abouthugo&theme=transparent&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abouthugo&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
